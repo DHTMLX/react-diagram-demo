@@ -1,0 +1,51 @@
+.dhx-diagram-demo_personal-card {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: white;
+  color: rgba(0, 0, 0, 0.7);
+  border: 1px solid #dfdfdf;
+  padding: 10px 12px;
+}
+.dhx-diagram-demo_personal-card i {
+  color: rgba(0, 0, 0, 0.7);
+  height: 20px;
+  width: 20px;
+  font-size: 18px;
+}
+.dhx-diagram-demo_personal-card__info {
+  display: flex;
+}
+.dhx-diagram-demo_personal-card__info a {
+  color: #0288d1;
+}
+.dhx-diagram-demo_personal-card__container {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+.dhx-diagram-demo_personal-card__container h3,
+.dhx-diagram-demo_personal-card__container p {
+  text-align: left;
+  font-size: 14px;
+  line-height: 20px;
+  height: 20px;
+  margin: 0 0 4px 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.dhx-diagram-demo_personal-card__container i {
+  margin-right: 4px;
+}
+.dhx-diagram-demo_personal-card__img-container {
+  min-width: 93px;
+  width: 93px;
+  margin-right: 12px;
+}
+.dhx-diagram-demo_personal-card__img-container img {
+  width: inherit;
+  height: auto;
+}

@@ -1,0 +1,707 @@
+[
+	{
+		"id": "1",
+		"text": "End User Request",
+		"type": "start",
+		"x": 900,
+		"y": 0,
+		"fontColor": "#fff",
+		"fill": "#7D8495"
+	},
+	{
+		"id": "3",
+		"text": "Objective",
+		"type": "decision",
+		"x": 900,
+		"y": 130,
+		"fontColor": "#fff",
+		"fill": "#C492AC"
+	},
+	{
+		"id": "3.1",
+		"text": "Information \n Delivery",
+		"type": "process",
+		"x": 230,
+		"y": 260,
+		"fontColor": "#fff",
+		"fill": "#5A4A78"
+	},
+	{
+		"id": "u1518617030571",
+		"x": 900,
+		"y": 260,
+		"type": "process",
+		"text": "Information \n Discovery",
+		"fontColor": "#fff",
+		"fill": "#5A4A78"
+	},
+	{
+		"id": "u1518617030573",
+		"x": 1440,
+		"y": 260,
+		"type": "process",
+		"text": "Native, Rich OLAP \n Experience",
+		"fontColor": "#fff",
+		"fill": "#5A4A78"
+	},
+	{
+		"id": "u1518617030575",
+		"x": 230,
+		"y": 390,
+		"type": "decision",
+		"text": "Type \n of View",
+		"fontColor": "#fff",
+		"fill": "#C492AC"
+	},
+	{
+		"id": "u1518617030577",
+		"x": 90,
+		"y": 520,
+		"type": "process",
+		"text": "Report",
+		"fontColor": "#fff",
+		"fill": "#5A4A78"
+	},
+	{
+		"id": "u1518617030579",
+		"x": 360,
+		"y": 520,
+		"type": "process",
+		"text": "Dashboards \n Business Analytics \n KPIs",
+		"fontColor": "#fff",
+		"fill": "#5A4A78"
+	},
+	{
+		"id": "u1518617030581",
+		"x": 90,
+		"y": 650,
+		"type": "decision",
+		"text": "Presentation",
+		"fontColor": "#fff",
+		"fill": "#C492AC"
+	},
+	{
+		"id": "u1518617030583",
+		"x": 360,
+		"y": 650,
+		"type": "decision",
+		"text": "Type \n of Delivery",
+		"fontColor": "#fff",
+		"fill": "#C492AC"
+	},
+	{
+		"id": "u1518617030585",
+		"x": 0,
+		"y": 780,
+		"type": "process",
+		"text": "Formatted",
+		"fontColor": "#fff",
+		"fill": "#5A4A78"
+	},
+	{
+		"id": "u1518617030587",
+		"x": 180,
+		"y": 780,
+		"type": "process",
+		"text": "Interactive",
+		"fontColor": "#fff",
+		"fill": "#5A4A78"
+	},
+	{
+		"id": "u1518617030589",
+		"x": 0,
+		"y": 910,
+		"type": "process",
+		"text": "Crystal \n Reports",
+		"fontColor": "#fff",
+		"fill": "#7D8495"
+	},
+	{
+		"id": "u1518617030591",
+		"x": 180,
+		"y": 910,
+		"type": "process",
+		"text": "Web \n Intelligence",
+		"fontColor": "#fff",
+		"fill": "#7D8495"
+	},
+	{
+		"id": "u1518617030593",
+		"x": 360,
+		"y": 780,
+		"type": "process",
+		"text": "Corporate",
+		"fontColor": "#fff",
+		"fill": "#5A4A78"
+	},
+	{
+		"id": "u1518617030595",
+		"x": 360,
+		"y": 910,
+		"type": "process",
+		"text": "Dashboards",
+		"fontColor": "#fff",
+		"fill": "#7D8495"
+	},
+	{
+		"id": "u1518617030597",
+		"x": 540,
+		"y": 780,
+		"type": "process",
+		"text": "Self \n Service",
+		"fontColor": "#fff",
+		"fill": "#5A4A78"
+	},
+	{
+		"id": "u1518617030599",
+		"x": 900,
+		"y": 390,
+		"type": "decision",
+		"text": "Type \n of Discovery",
+		"css": "decision",
+		"fontColor": "#fff",
+		"fill": "#C492AC"
+	},
+	{
+		"id": "u1518617030601",
+		"x": 720,
+		"y": 520,
+		"type": "process",
+		"text": "Search \n and Discovery",
+		"fontColor": "#fff",
+		"fill": "#5A4A78"
+	},
+	{
+		"id": "u1518617030603",
+		"x": 1080,
+		"y": 520,
+		"type": "process",
+		"text": "Predictive",
+		"fontColor": "#fff",
+		"fill": "#5A4A78"
+	},
+	{
+		"id": "20",
+		"x": 1080,
+		"y": 910,
+		"type": "process",
+		"text": "Predictive \n Analysis",
+		"css": "last",
+		"fontColor": "#fff",
+		"fill": "#7D8495"
+	},
+	{
+		"id": "u1518617030605",
+		"x": 720,
+		"y": 650,
+		"type": "decision",
+		"text": "Type \n of Data",
+		"fontColor": "#fff",
+		"fill": "#C492AC"
+	},
+	{
+		"id": "u1518617030607",
+		"x": 720,
+		"y": 780,
+		"type": "process",
+		"text": "Corporate",
+		"fontColor": "#fff",
+		"fill": "#5A4A78"
+	},
+	{
+		"id": "u1518617030609",
+		"x": 900,
+		"y": 780,
+		"type": "process",
+		"text": "Corporate & \n Local Mashup ",
+		"fontColor": "#fff",
+		"fill": "#5A4A78"
+	},
+	{
+		"id": "u1518617030611",
+		"x": 720,
+		"y": 910,
+		"type": "process",
+		"text": "Explorer \n Exploration \n Views",
+		"css": "last",
+		"fontColor": "#fff",
+		"fill": "#7D8495"
+	},
+	{
+		"id": "u1518617030613",
+		"x": 900,
+		"y": 910,
+		"type": "process",
+		"text": "Visual \n Intelligence ",
+		"fontColor": "#fff",
+		"fill": "#7D8495"
+	},
+	{
+		"id": "u1518617030615",
+		"x": 1440,
+		"y": 390,
+		"type": "decision",
+		"text": "Type \n of View",
+		"fontColor": "#fff",
+		"fill": "#C492AC"
+	},
+	{
+		"id": "u1518617030619",
+		"x": 1260,
+		"y": 520,
+		"type": "process",
+		"text": "Interactive \n Slice & Dice",
+		"fontColor": "#fff",
+		"fill": "#5A4A78"
+	},
+	{
+		"id": "u1518617030621",
+		"x": 1620,
+		"y": 520,
+		"type": "process",
+		"text": "Interactive \n Dashboards",
+		"fontColor": "#fff",
+		"fill": "#5A4A78"
+	},
+	{
+		"id": "u15186170306234",
+		"x": 1620,
+		"y": 910,
+		"type": "process",
+		"text": "Analysis \n for Application \n Design",
+		"fontColor": "#fff",
+		"fill": "#7D8495"
+	},
+	{
+		"id": "u1518617030623",
+		"x": 1260,
+		"y": 650,
+		"type": "decision",
+		"text": "Presentation",
+		"fontColor": "#fff",
+		"fill": "#C492AC"
+	},
+	{
+		"id": "u1518617030625",
+		"x": 1260,
+		"y": 780,
+		"type": "process",
+		"text": "Excel \n (SAP BW & HANA)",
+		"fontColor": "#fff",
+		"fill": "#5A4A78"
+	},
+	{
+		"id": "u1518617030627",
+		"x": 1440,
+		"y": 780,
+		"type": "process",
+		"text": "Web",
+		"fontColor": "#fff",
+		"fill": "#5A4A78"
+	},
+	{
+		"id": "u1518617030629",
+		"x": 1260,
+		"y": 910,
+		"type": "process",
+		"text": "Analysis \n for Office",
+		"fontColor": "#fff",
+		"fill": "#7D8495"
+	},
+	{
+		"id": "u1518617030631",
+		"x": 1440,
+		"y": 910,
+		"type": "process",
+		"text": "Analysis \n for OLAP",
+		"fontColor": "#fff",
+		"fill": "#7D8495"
+	},
+	{
+		"from": "u1518617030597",
+		"to": "u1518617030611",
+		"type": "line",
+		"forwardArrow": "filled",
+		"stroke": "#7D8495",
+		"connectType": "elbow",
+		"id": "u1585228645078",
+		"fromSide": "bottom",
+		"toSide": "left"
+	},
+	{
+		"from": "u1518617030621",
+		"to": "u15186170306234",
+		"type": "line",
+		"forwardArrow": "filled",
+		"stroke": "#7D8495",
+		"connectType": "elbow",
+		"id": "u1585228645079",
+		"fromSide": "bottom",
+		"toSide": "top"
+	},
+	{
+		"from": "u1518617030603",
+		"to": "20",
+		"type": "line",
+		"forwardArrow": "filled",
+		"stroke": "#7D8495",
+		"connectType": "elbow",
+		"id": "u1585228645080",
+		"fromSide": "bottom",
+		"toSide": "top"
+	},
+	{
+		"id": "1-3",
+		"from": "1",
+		"to": "3",
+		"type": "line",
+		"forwardArrow": "filled",
+		"stroke": "#7D8495",
+		"connectType": "elbow",
+		"fromSide": "bottom",
+		"toSide": "top"
+	},
+	{
+		"toSide": "top",
+		"id": "3-3.1",
+		"from": "3",
+		"to": "3.1",
+		"type": "line",
+		"forwardArrow": "filled",
+		"stroke": "#7D8495",
+		"connectType": "elbow",
+		"fromSide": "left"
+	},
+	{
+		"from": "3",
+		"to": "u1518617030571",
+		"type": "line",
+		"id": "u1518617030572",
+		"forwardArrow": "filled",
+		"stroke": "#7D8495",
+		"connectType": "elbow",
+		"fromSide": "bottom",
+		"toSide": "top"
+	},
+	{
+		"toSide": "top",
+		"from": "3",
+		"to": "u1518617030573",
+		"type": "line",
+		"id": "u1518617030574",
+		"forwardArrow": "filled",
+		"stroke": "#7D8495",
+		"connectType": "elbow",
+		"fromSide": "right"
+	},
+	{
+		"toSide": "top",
+		"from": "3.1",
+		"to": "u1518617030575",
+		"type": "line",
+		"id": "u1518617030576",
+		"forwardArrow": "filled",
+		"stroke": "#7D8495",
+		"connectType": "elbow",
+		"fromSide": "bottom"
+	},
+	{
+		"fromSide": "left",
+		"from": "u1518617030575",
+		"to": "u1518617030577",
+		"type": "line",
+		"id": "u1518617030578",
+		"forwardArrow": "filled",
+		"stroke": "#7D8495",
+		"connectType": "elbow",
+		"toSide": "top",
+		"strokeType": "line",
+		"backArrow": ""
+	},
+	{
+		"fromSide": "right",
+		"from": "u1518617030575",
+		"to": "u1518617030579",
+		"type": "line",
+		"id": "u1518617030580",
+		"forwardArrow": "filled",
+		"stroke": "#7D8495",
+		"connectType": "elbow",
+		"toSide": "top"
+	},
+	{
+		"from": "u1518617030577",
+		"to": "u1518617030581",
+		"type": "line",
+		"id": "u1518617030582",
+		"forwardArrow": "filled",
+		"stroke": "#7D8495",
+		"connectType": "elbow",
+		"fromSide": "bottom",
+		"toSide": "top"
+	},
+	{
+		"from": "u1518617030579",
+		"to": "u1518617030583",
+		"type": "line",
+		"id": "u1518617030584",
+		"forwardArrow": "filled",
+		"stroke": "#7D8495",
+		"connectType": "elbow",
+		"fromSide": "bottom",
+		"toSide": "top"
+	},
+	{
+		"from": "u1518617030581",
+		"to": "u1518617030585",
+		"type": "line",
+		"id": "u1518617030586",
+		"forwardArrow": "filled",
+		"stroke": "#7D8495",
+		"connectType": "elbow",
+		"fromSide": "left",
+		"toSide": "top"
+	},
+	{
+		"from": "u1518617030581",
+		"to": "u1518617030587",
+		"type": "line",
+		"id": "u1518617030588",
+		"forwardArrow": "filled",
+		"stroke": "#7D8495",
+		"connectType": "elbow",
+		"fromSide": "right",
+		"toSide": "top"
+	},
+	{
+		"from": "u1518617030585",
+		"to": "u1518617030589",
+		"type": "line",
+		"id": "u1518617030590",
+		"forwardArrow": "filled",
+		"stroke": "#7D8495",
+		"connectType": "elbow",
+		"fromSide": "bottom",
+		"toSide": "top"
+	},
+	{
+		"from": "u1518617030587",
+		"to": "u1518617030591",
+		"type": "line",
+		"id": "u1518617030592",
+		"forwardArrow": "filled",
+		"stroke": "#7D8495",
+		"connectType": "elbow",
+		"fromSide": "bottom",
+		"toSide": "top"
+	},
+	{
+		"from": "u1518617030583",
+		"to": "u1518617030593",
+		"type": "line",
+		"id": "u1518617030594",
+		"forwardArrow": "filled",
+		"stroke": "#7D8495",
+		"connectType": "elbow",
+		"fromSide": "bottom",
+		"toSide": "top"
+	},
+	{
+		"from": "u1518617030593",
+		"to": "u1518617030595",
+		"type": "line",
+		"id": "u1518617030596",
+		"forwardArrow": "filled",
+		"stroke": "#7D8495",
+		"connectType": "elbow",
+		"fromSide": "bottom",
+		"toSide": "top"
+	},
+	{
+		"toSide": "top",
+		"from": "u1518617030583",
+		"to": "u1518617030597",
+		"type": "line",
+		"id": "u1518617030598",
+		"forwardArrow": "filled",
+		"stroke": "#7D8495",
+		"connectType": "elbow",
+		"fromSide": "right"
+	},
+	{
+		"from": "u1518617030571",
+		"to": "u1518617030599",
+		"type": "line",
+		"id": "u1518617030600",
+		"forwardArrow": "filled",
+		"stroke": "#7D8495",
+		"connectType": "elbow",
+		"fromSide": "bottom",
+		"toSide": "top"
+	},
+	{
+		"fromSide": "left",
+		"from": "u1518617030599",
+		"to": "u1518617030601",
+		"type": "line",
+		"id": "u1518617030602",
+		"forwardArrow": "filled",
+		"stroke": "#7D8495",
+		"connectType": "elbow",
+		"toSide": "top"
+	},
+	{
+		"fromSide": "right",
+		"toSide": "top",
+		"from": "u1518617030599",
+		"to": "u1518617030603",
+		"type": "line",
+		"id": "u1518617030604",
+		"forwardArrow": "filled",
+		"stroke": "#7D8495",
+		"connectType": "elbow"
+	},
+	{
+		"from": "u1518617030601",
+		"to": "u1518617030605",
+		"type": "line",
+		"id": "u1518617030606",
+		"forwardArrow": "filled",
+		"stroke": "#7D8495",
+		"connectType": "elbow",
+		"fromSide": "bottom",
+		"toSide": "top"
+	},
+	{
+		"from": "u1518617030605",
+		"to": "u1518617030607",
+		"type": "line",
+		"id": "u1518617030608",
+		"forwardArrow": "filled",
+		"stroke": "#7D8495",
+		"connectType": "elbow",
+		"fromSide": "bottom",
+		"toSide": "top"
+	},
+	{
+		"from": "u1518617030605",
+		"to": "u1518617030609",
+		"type": "line",
+		"id": "u1518617030610",
+		"forwardArrow": "filled",
+		"stroke": "#7D8495",
+		"connectType": "elbow",
+		"fromSide": "bottom",
+		"toSide": "left"
+	},
+	{
+		"from": "u1518617030607",
+		"to": "u1518617030611",
+		"type": "line",
+		"id": "u1518617030612",
+		"forwardArrow": "filled",
+		"stroke": "#7D8495",
+		"connectType": "elbow",
+		"fromSide": "bottom",
+		"toSide": "top"
+	},
+	{
+		"from": "u1518617030609",
+		"to": "u1518617030613",
+		"type": "line",
+		"id": "u1518617030614",
+		"forwardArrow": "filled",
+		"stroke": "#7D8495",
+		"connectType": "elbow",
+		"fromSide": "bottom",
+		"toSide": "top"
+	},
+	{
+		"from": "u1518617030573",
+		"to": "u1518617030615",
+		"type": "line",
+		"id": "u1518617030616",
+		"forwardArrow": "filled",
+		"stroke": "#7D8495",
+		"connectType": "elbow",
+		"fromSide": "bottom",
+		"toSide": "top"
+	},
+	{
+		"fromSide": "left",
+		"from": "u1518617030615",
+		"to": "u1518617030619",
+		"type": "line",
+		"id": "u1518617030620",
+		"forwardArrow": "filled",
+		"stroke": "#7D8495",
+		"connectType": "elbow",
+		"toSide": "top"
+	},
+	{
+		"fromSide": "right",
+		"from": "u1518617030615",
+		"to": "u1518617030621",
+		"type": "line",
+		"id": "u1518617030622",
+		"forwardArrow": "filled",
+		"stroke": "#7D8495",
+		"connectType": "elbow",
+		"toSide": "top"
+	},
+	{
+		"from": "u1518617030619",
+		"to": "u1518617030623",
+		"type": "line",
+		"id": "u1518617030624",
+		"forwardArrow": "filled",
+		"stroke": "#7D8495",
+		"connectType": "elbow",
+		"fromSide": "bottom",
+		"toSide": "top"
+	},
+	{
+		"from": "u1518617030623",
+		"to": "u1518617030625",
+		"type": "line",
+		"id": "u1518617030626",
+		"forwardArrow": "filled",
+		"stroke": "#7D8495",
+		"connectType": "elbow",
+		"fromSide": "bottom",
+		"toSide": "top"
+	},
+	{
+		"from": "u1518617030623",
+		"to": "u1518617030627",
+		"type": "line",
+		"id": "u1518617030628",
+		"forwardArrow": "filled",
+		"stroke": "#7D8495",
+		"connectType": "elbow",
+		"fromSide": "bottom",
+		"toSide": "left"
+	},
+	{
+		"from": "u1518617030625",
+		"to": "u1518617030629",
+		"type": "line",
+		"id": "u1518617030630",
+		"forwardArrow": "filled",
+		"stroke": "#7D8495",
+		"connectType": "elbow",
+		"fromSide": "bottom",
+		"toSide": "top"
+	},
+	{
+		"from": "u1518617030627",
+		"to": "u1518617030631",
+		"type": "line",
+		"id": "u1518617030632",
+		"forwardArrow": "filled",
+		"stroke": "#7D8495",
+		"connectType": "elbow",
+		"fromSide": "bottom",
+		"toSide": "top"
+	}
+]

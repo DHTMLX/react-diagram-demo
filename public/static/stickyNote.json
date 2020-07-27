@@ -1,0 +1,93 @@
+[
+  {
+      "id": 1,
+      "x": 150,
+      "y": 0,
+      "type": "yellow",
+      "text": "Measure"
+  },
+  {
+      "id": 2,
+      "x": 450,
+      "y": 0,
+      "type": "yellow",
+      "text": "Idea"
+  },
+  {
+      "id": 3,
+      "x": 0,
+      "y": 300,
+      "type": "yellow",
+      "text": "Implement"
+  },
+  {
+      "id": 4,
+      "x": 300,
+      "y": 600,
+      "type": "yellow",
+      "text": "Plan"
+  },
+  {
+      "id": 5,
+      "x": 600,
+      "y": 300,
+      "type": "yellow",
+      "text": "Market research"
+  },
+  {
+      "id": 6,
+      "x": 300,
+      "y": 300,
+      "type": "blue",
+      "text": "Product\ndevelopment"
+  },
+  {
+      "id": 7,
+      "connectType": "elbow",
+      "forwardArrow": "filled",
+      "from": 1,
+      "to": 2,
+      "stroke": "#8792A7"
+  },
+  {
+      "id": 8,
+      "connectType": "elbow",
+      "forwardArrow": "filled",
+      "from": 5,
+      "to": 4,
+      "fromSide": "bottom",
+      "stroke": "#8792A7"
+  },
+  {
+      "id": 9,
+      "connectType": "elbow",
+      "forwardArrow": "filled",
+      "from": 4,
+      "to": 3,
+      "fromSide": "left",
+      "toSide": "bottom",
+      "stroke": "#8792A7"
+  },
+  {
+      "id": 10,
+      "connectType": "elbow",
+      "backArrow": "filled",
+      "from": 1,
+      "to": 3,
+      "fromSide": "left",
+      "toSide": "top",
+      "type": "line",
+      "stroke": "#8792A7"
+  },
+  {
+      "id": 11,
+      "connectType": "elbow",
+      "forwardArrow": "filled",
+      "from": 2,
+      "to": 5,
+      "fromSide": "right",
+      "toSide": "top",
+      "type": "line",
+      "stroke": "#8792A7"
+  }
+]

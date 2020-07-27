@@ -1,13 +1,86 @@
-body {
+* {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+  box-sizing: border-box;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+html,
+body,
+#root {
+  height: 100%;
+}
+
+.dhx-container {
+  height: 100%;
+  background-color: #fff;
+}
+
+.dhx-container_header {
+  height: 60px;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.dhx-container_header a {
+  cursor: pointer;
+  text-decoration: none;
+  color: #0288d1;
+  margin-bottom: 15px;
+}
+
+.dhx-container_header h3 {
+  color: rgba(0, 0, 0, 0.7);
+}
+
+.dhx-container_inner {
+  height: calc(100% - 60px);
+}
+
+.dhx_sample-container__with-editor,
+.dhx_sample-container__without-editor {
+  height: 100%;
+}
+
+.dhx_sample-container__with-editor .dhx_sample-widget {
+  height: 100%;
+}
+
+.dhx_sample-container__without-editor
+  .dhx_sample-container__widget.overflow_hidden
+  .dhx_diagram.dhx_widget
+  .dhx_diagram__container.dhx_free_diagram {
+  overflow: hidden !important;
+}
+
+.dhx_sample-controls {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60px;
+}
+
+/* Buttons */
+.dhx_sample-btn {
+  border: none;
+  outline: none;
+  padding: 6px 16px;
+  border-radius: 2px;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+.dhx_sample-btn--flat {
+  background: #0288d1;
+  color: #fff;
+}
+.dhx_sample-btn--flat:hover {
+  background-color: #35a0da;
+  transition: background-color 0.2s ease-out;
+}
+
+.dhx_diagram {
+  background-color: #fff !important;
 }

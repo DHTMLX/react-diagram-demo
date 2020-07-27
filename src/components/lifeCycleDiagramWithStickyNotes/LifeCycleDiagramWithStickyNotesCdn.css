@@ -1,0 +1,16 @@
+.dhx-diagram-demo_life-cycle {
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 500;
+  overflow: hidden;
+}
+.dhx-diagram-demo_life-cycle span {
+  text-align: center;
+  word-wrap: break-word;
+  white-space: pre-wrap;
+}
