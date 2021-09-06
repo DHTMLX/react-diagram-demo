@@ -7,11 +7,11 @@
 
 ## Installation
 
-`npm install`
+`npm install` or `yarn`
 
 ## Local development
 
-`npm run storybook`
+`npm run storybook` or `yarn storybook`
 
 Open [http://localhost:6006](http://localhost:6006) to view it in the browser.
 
