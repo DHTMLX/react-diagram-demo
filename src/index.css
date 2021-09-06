@@ -1,3 +1,6 @@
+/* You can add global styles to this file, and also import other style files */
+@import "https://cdn.materialdesignicons.com/4.5.95/css/materialdesignicons.min.css";
+
 * {
   margin: 0;
   padding: 0;
@@ -9,6 +12,7 @@ html,
 body,
 #root {
   height: 100%;
+  background: #fff;
 }
 
 .dhx-container {
@@ -19,7 +23,7 @@ body,
 .dhx-container_header {
   height: 60px;
   text-align: center;
-  padding-top: 10px;
+  border-bottom: 1px solid #e0e0e0;
 }
 
 .dhx-container_header a {
@@ -33,31 +37,40 @@ body,
   color: rgba(0, 0, 0, 0.7);
 }
 
-.dhx-container_inner {
+.dhx_sample-controls {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 60px;
+	height: 60px;
+	border-bottom: 1px solid #DFDFDF;
+	font-family: Roboto,Arial,Tahoma,Verdana,sans-serif;
+	font-size: 14px;
+}
+.dhx_sample-controls button:not(:last-child),
+.dhx_sample-controls input:not(:last-child),
+.dhx_sample-controls select:not(:last-child) {
+	margin-right: 12px;
+}
+.dhx_sample-controls .dhx_form-group {
+	margin: 0;
+}
+.dhx_sample-controls .dhx_form-group .dhx_label {
+	padding-left: 6px;
+	line-height: 24px;
+	max-width: 100%;
+}
+
+.dhx-container_inner, .dhx_sample-widget {
+  height: 100%;
+}
+
+.dhx_sample-container__with-editor.dhx-container_inner, .dhx_sample-container {
   height: calc(100% - 60px);
 }
 
-.dhx_sample-container__with-editor,
-.dhx_sample-container__without-editor {
-  height: 100%;
-}
-
-.dhx_sample-container__with-editor .dhx_sample-widget {
-  height: 100%;
-}
-
-.dhx_sample-container__without-editor
-  .dhx_sample-container__widget.overflow_hidden
-  .dhx_diagram.dhx_widget
-  .dhx_diagram__container.dhx_free_diagram {
-  overflow: hidden !important;
-}
-
-.dhx_sample-controls {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 60px;
+.dhx_sample-container__without-editor.dhx-container_inner {
+  height: calc(100% - 120px);
 }
 
 /* Buttons */

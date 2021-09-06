@@ -1,3 +1,4 @@
+/* eslint-disable no-restricted-globals */
 let intervalId;
 
 function addButtons() {
@@ -10,11 +11,7 @@ function addButtons() {
   }
 
   let div = document.createElement("div");
-  const url = window.location.href.split("/");
-  const currentWidget = url[url.length - 1].split("--")[0];
-  div.innerHTML = `<button id='btn-docs'>DHX ${
-    currentWidget[0].toUpperCase() + currentWidget.slice(1)
-  } documentation</button><button id='btn-trial'><span>Free trial</span></button>`;
+  div.innerHTML = `<button id='btn-docs'>DHX Diagram documentation</button><button id='btn-trial'><span>Free trial</span></button>`;
   menuElement.after(div);
 
   const btnDocs = document.getElementById("btn-docs");
@@ -25,12 +22,6 @@ function addButtons() {
   const btnTrial = document.getElementById("btn-trial");
   btnTrial.addEventListener("click", function () {
     window.open("https://dhtmlx.com/docs/products/dhtmlxSuite/download.shtml", "_blank");
-  });
-
-  window.addEventListener("locationchange", function () {
-    const url = window.location.href.split("/");
-    const currentWidget = url[url.length - 1].split("--")[0];
-    btnDocs.innerText = `DHX ${currentWidget[0].toUpperCase() + currentWidget.slice(1)} documentation`;
   });
 
   history.pushState = (f =>
