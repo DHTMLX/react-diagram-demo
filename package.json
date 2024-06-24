@@ -11,7 +11,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@dhx/trial-diagram": "^6.0.0",
+    "@dhx/trial-diagram": "./npm-trial",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
