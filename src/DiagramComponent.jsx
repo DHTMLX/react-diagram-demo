@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from "react";
 import "@dhx/trial-diagram/codebase/diagram.min.css";
-import { DiagramEditor } from "@dhx/diagram-pro";
+import { DiagramEditor } from "@dhx/trial-diagram";
 
 const DiagramComponent = ({ data }) => {
   let [diagram, setDiagram] = useState(null);
