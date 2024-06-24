@@ -212,11 +212,10 @@
     "@babel/helper-validator-identifier" "^7.24.7"
     to-fast-properties "^2.0.0"
 
-"@dhx/diagram-pro@./npm-pro":
-  version "6.0.0"
-
-"@dhx/trial-diagram@./npm-trial":
-  version "6.0.0"
+"@dhx/trial-diagram@^6.0.1":
+  version "6.0.1"
+  resolved "https://npm.dhtmlx.com/@dhx%2ftrial-diagram/-/trial-diagram-6.0.1.tgz#1edbd7cb59ed0a00a9eef31686174245b72d933c"
+  integrity sha512-Pq4Yt19e7tx+60nQtEMOdH0KeioJj3ZRpjK8yZs5bV6FvlTCCAtKXn9hcidhQXq+oDFgm32ArJAkofmac6QCRg==
 
 "@esbuild/aix-ppc64@0.20.2":
   version "0.20.2"
@@ -894,9 +893,6 @@ define-properties@^1.2.0, define-properties@^1.2.1:
     define-data-property "^1.0.1"
     has-property-descriptors "^1.0.0"
     object-keys "^1.1.1"
-
-dhx-diagram-package@./commercial:
-  version "6.0.0"
 
 doctrine@^2.1.0:
   version "2.1.0"
