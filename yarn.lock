@@ -1262,10 +1262,10 @@
   resolved "https://registry.yarnpkg.com/@csstools/selector-specificity/-/selector-specificity-2.2.0.tgz#2cbcf822bf3764c9658c4d2e568bd0c0cb748016"
   integrity sha512-+OJ9konv95ClSTOJCmMZqpd5+YGsB2S+x6w3E1oaM8UuR5j8nTNHYSz8c9BEPGDOCMQYIEEGlVPj/VY64iTbGw==
 
-"@dhx/trial-diagram@^6.0.4":
-  version "6.0.4"
-  resolved "https://npm.dhtmlx.com/@dhx%2ftrial-diagram/-/trial-diagram-6.0.4.tgz#8d0096e5c5bce28cbd391f4cba8a68b677d2a2c6"
-  integrity sha512-ImDOfyHk9EZIugPpdCbvFKstNBMBxxQDOluVfy5iwFTY+gZsYNy0zXlAQPL2SWYU5atkNaIrSRqQOWCElGYAXA==
+"@dhx/trial-diagram@^6.0.5":
+  version "6.0.5"
+  resolved "https://npm.dhtmlx.com/@dhx%2ftrial-diagram/-/trial-diagram-6.0.5.tgz#ff10902a5e8b48fdb266f77e866be319b31d4ea9"
+  integrity sha512-m2q6lyUozbwlgMMuJchjXzJBrJCDkjeNR1jFyXXpDJfXb31+h6qYute/pxicOQhqAg6EEZdF+gFDq3kcwW8Y7g==
 
 "@eslint-community/eslint-utils@^4.2.0":
   version "4.4.0"
