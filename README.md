@@ -2,8 +2,7 @@
 
 [![dhtmlx.com](https://img.shields.io/badge/made%20by-DHTMLX-blue)](https://dhtmlx.com/)
 
-
-![DHTMLX Diagram with React Demo](https://raw.githubusercontent.com/DHTMLX/react-diagram-demo/master/diagram.png)
+![DHTMLX Diagram with React Demo](diagram_editor.png)
 
 ## How to start
 
