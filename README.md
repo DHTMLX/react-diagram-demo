@@ -4,7 +4,7 @@
 
 [How to start](#how-to-start) | [Key features](#key-features) | [License](#license) | [Useful links](#links) | [Other examples](#examples) | [Join our online community](#join)
 
-![DHTMLX Diagram with React Demo](https://raw.githubusercontent.com/DHTMLX/react-diagram-demo/master/diagram.png)
+![DHTMLX Diagram with React Demo](diagram_editor.png)
 
 The DHTMLX [JavaScript Diagram library](https://dhtmlx.com/docs/products/dhtmlxDiagram/) allows developers to create interactive, customizable diagrams such as flowcharts, organizational charts, network diagrams, mind maps, etc. It simplifies complex data visualization by organizing it into a clear hierarchical structure using automatic layouts and live editors.
 
